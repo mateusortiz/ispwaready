@@ -89,6 +89,7 @@ td {
     position: relative;
     width: 10%;
     height: 70px;
+    color: #000;
 }
 
 th {
@@ -131,6 +132,16 @@ tbody th {
     background: rgb(189, 195, 199);
     background: -webkit-linear-gradient(rgb(189, 195, 199), rgb(149, 165, 166));
     background: linear-gradient(rgb(189, 195, 199), rgb(149, 165, 166));
+}
+
+.consideration {
+    background: #f18a21;
+}
+
+.consideration:hover {
+    background: rgb(241, 169, 94);
+    background: -webkit-linear-gradient(rgb(241, 169, 94), rgb(218, 137, 36));
+    background: linear-gradient(rgb(241, 169, 94), rgb(218, 137, 36));
 }
 
 
