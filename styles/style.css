@@ -37,6 +37,10 @@ p {
     padding-top: 80px;
 }
 
+.title {
+    font-size: 60px;
+}
+
 .ready {
     font-family: 'Press Start 2P', sans-serif;
 }
