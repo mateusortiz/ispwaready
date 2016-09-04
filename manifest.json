@@ -33,7 +33,7 @@
             "sizes": "512x512"
         }
     ],
-    "start_url": "/?homescreen=1",
+    "start_url": "index.html",
     "display": "standalone",
     "orientation": "portrait",
     "background_color": "#34495e",
