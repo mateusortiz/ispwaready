@@ -1,0 +1,41 @@
+{
+    "name": "Are PWA ready",
+    "short_name": "PWA ready",
+    "icons": [
+        {
+            "src": "images/icons/pwa_128.png",
+            "type": "image/png",
+            "sizes": "128x128"
+        },
+        {
+            "src": "images/icons/pwa_144.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "images/icons/152.png",
+            "type": "image/png",
+            "sizes": "152x152"
+        },
+        {
+            "src": "images/icons/pwa_192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "images/icons/pwa_256.png",
+            "type": "image/png",
+            "sizes": "256x256"
+        },
+        {
+            "src": "images/icons/pwa_512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "/?homescreen=1",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#34495e",
+    "theme_color": "#34495e"
+}
