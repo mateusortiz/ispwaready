@@ -18,9 +18,8 @@ h1 {
 }
 
 a {
-    color: #1b2d40;
+    color: #0e2942;
     text-decoration: none;
-    font-weight: 600;
 }
 
 p {
@@ -54,6 +53,15 @@ p {
 .links > li {
     margin: 0 10px;
     display: inline-block;
+}
+
+.links a {
+    font-weight: 600;
+}
+
+.links a:hover {
+    color: #588abf;
+    border-bottom: 2px solid #588abf;
 }
 
 /* ==========================================================================
