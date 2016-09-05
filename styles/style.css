@@ -162,6 +162,10 @@ tbody th {
    ========================================================================== */
 
 @media (max-width: 820px) {
+    .title {
+        font-size: 40px;
+    }
+
     table, thead, tbody, tr, td, th {
         display: block;
     }
