@@ -1,6 +1,6 @@
 # Are Progressive Web Apps ready?
 
-
+The status of specs around Progressive Web Apps.
 
 ## License
 
