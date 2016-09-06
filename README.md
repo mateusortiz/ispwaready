@@ -14,8 +14,8 @@ The status of specs around Progressive Web Apps.
 
 ## Credits
 
-[Are We Componentized Yet?](http://jonrimmer.github.io/are-we-componentized-yet/)
-[Is Service Worker ready?](https://jakearchibald.github.io/isserviceworkerready/)
+- [Are We Componentized Yet?](http://jonrimmer.github.io/are-we-componentized-yet/)
+- [Is Service Worker ready?](https://jakearchibald.github.io/isserviceworkerready/)
 
 ## License
 
